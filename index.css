@@ -1,0 +1,51 @@
+
+body {
+    background-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: regular;
+    color: red;
+}
+
+h1, h2, h3, a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ h1{
+    font-size: 32px;
+    font-weight: 900;
+}
+
+h2{
+    color: red;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+h3{
+    font-size: 22px;
+    font-weight: 600;
+
+}
+
+a{
+    padding: auto;
+    color: blue;
+    border: 2px;
+
+}
+
+div{
+    background-color: orange;
+    padding: 40px;
+    width: 650px;
+    margin: 40px auto;
+    box-shadow: 0 10px 30px rgba(red, green, blue, alpha);
+    text-align: center;
+    border-radius: 10px;
+}
+
+img{
+    border-radius: 50px;
+    width: 200px;
+}
